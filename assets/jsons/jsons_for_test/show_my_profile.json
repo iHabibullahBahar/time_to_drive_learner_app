@@ -1,0 +1,98 @@
+{
+  "data":{
+    "app_users": {
+      "current_cash": 200.2,
+      "current_credit": 300.2
+    },
+    "name":"Khandoker Anan",
+    "user_id":199333,
+    "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+    "last_active":"6 months ago",
+    "total_bets":150,
+    "overall_ranking":15798,
+    "is_profile_completed": 1,
+    "my_profile": {
+      "first_name": "Khandoker Kafi",
+      "last_name": "Anan",
+      "email": "khandokeranan@gmail.com",
+      "dob": "05/03/1998",
+      "address": "Dhanmondi",
+      "address_suburb": "Dhaka",
+      "address_state": "Dhaka",
+      "address_post_code": 120
+    },
+    "current_badge":{
+      "badge_id":12,
+      "name":"Gold III",
+      "icon":"https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/gold_level_3.png"
+
+    },
+    "unlock_next_badge":{
+      "net_badge_win":4,
+      "next_badge":{
+        "badge_id":12,
+        "name":"Onyx III",
+        "win_count":16,
+        "icon":"https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/silver_level_3.png"
+      }
+    },
+    "unlocked_awards":[
+      {
+        "award_id": 3,
+        "name": "5 in a row",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/five_in_a_row_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "Rising Award",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/rising_star_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "5 in a row",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/five_in_a_row_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "Rising Award",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/rising_star_badge.png"
+      }
+    ],
+    "locked_awards":[
+      {
+        "award_id": 3,
+        "name": "5 in a row",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/five_in_a_row_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "Rising Award",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/rising_star_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "5 in a row",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/five_in_a_row_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "Rising Award",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/rising_star_badge.png"
+      }
+    ],
+    "validate_tcp":{
+      "show_terms_condition":1,
+      "show_privacy_policy":1,
+      "latest_terms_conditions_version_code":2,
+      "latest_privacy_policy_version_code":3
+    }
+  }
+}

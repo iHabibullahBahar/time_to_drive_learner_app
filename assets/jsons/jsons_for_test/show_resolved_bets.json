@@ -1,0 +1,41 @@
+{
+  "data": {
+    "page_availability": false,
+    "latest_bet_result": [
+      {
+        "bet_id": 44419,
+        "match_status": "DRAW ",
+        "currency_type": "credit",
+        "odd": 1.00,
+        "amount": 130.12,
+        "resolved_ago": "5min ago",
+        "teams": [
+          {
+            "team_id": 7,
+            "self": 1,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "self": 0,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "visibility": "circle",
+        "opponents": [
+          {
+            "id": 12,
+            "name": "Protik",
+            "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png"
+          }
+        ],
+        "bet_room_id": "dsdadasdsadad23231241",
+        "bet_room_chat_id": "dsdadasdsadad23231241"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "ranking": [
+      {
+        "position": 1,
+        "lead_point": 1500,
+        "user_id": 433,
+        "name": "Habibullah Bahar",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 2,
+        "lead_point": 1430,
+        "user_id": 124,
+        "name": "Khandoker Anan",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 3,
+        "lead_point": 1100,
+        "user_id": 2270,
+        "name": "Habibullah Bahar",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 4,
+        "lead_point": 1044,
+        "user_id": 1920,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 5,
+        "lead_point": 1019,
+        "user_id": 754,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 6,
+        "lead_point": 945,
+        "user_id": 124,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 7,
+        "lead_point": 830,
+        "user_id": 5670,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 8,
+        "lead_point": 652,
+        "user_id": 111,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 9,
+        "lead_point": 499,
+        "user_id": 923,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 10,
+        "lead_point": 388,
+        "user_id": 9001,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 0
+      },
+      {
+        "position": 1320,
+        "lead_point": 387,
+        "user_id": 2,
+        "name": "Josh Butler",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "self": 1
+      }
+    ]
+  }
+}

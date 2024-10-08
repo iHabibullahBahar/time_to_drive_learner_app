@@ -1,0 +1,14 @@
+{
+  "data": {
+    "app_users": {
+      "current_cash": 20000.7,
+      "current_credit": 300
+    },
+    "updated_info": {
+      "updated_cash": 190,
+      "updated_credit": 300001
+    },
+    "cash_to_credit": 100,
+    "timestamp": "2023-03-08T06:39:28.000000Z"
+  }
+}

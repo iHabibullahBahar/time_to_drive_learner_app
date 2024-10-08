@@ -1,0 +1,42 @@
+{
+  "data": {
+    "page_availability": false,
+    "my_bets": [
+      {
+        "bet_id": 3213,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://circlebetau.com/assets/teams/bangaldesh_cricket_timestamp.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://circlebetau.com/assets/teams/aus_cricket_timestamp.png"
+          }
+        ],
+        "category": {
+          "id": 1,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "currency_type": "cash",
+        "profit": 130,
+        "lose": 130.11,
+        "odd": 1.34,
+        "my_selected_team": {
+          "team_id": 7,
+          "name": "Australia",
+          "code": "AUS",
+          "icon": "https://circlebetau.com/assets/teams/aus_cricket_timestamp.png"
+        },
+        "visibility": "public",
+        "bet_room_id": "dsdadasdsadad23231241",
+        "bet_room_chat_id": "dsdadasdsadad23231241"
+      }
+    ]
+  }
+}

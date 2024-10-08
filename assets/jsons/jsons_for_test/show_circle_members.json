@@ -1,0 +1,57 @@
+{
+  "data": {
+    "page_availability": false,
+    "circle_member_list": [
+      {
+        "user_id": 13,
+        "name": "Habibullah Bahar",
+        "last_active": "25 mins ago",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "badge": {
+          "name": "Bronze III",
+          "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/silver_level_3.png"
+        }
+      },
+      {
+        "user_id": 14,
+        "name": "Khandoker Kafi Anan",
+        "last_active": "24 mins ago",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "badge": {
+          "name": "Bronze III",
+          "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/onyx_level_2.png"
+        }
+      },
+      {
+        "user_id": 13,
+        "name": "Habibullah Bahar",
+        "last_active": "25 mins ago",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "badge": {
+          "name": "Bronze III",
+          "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/onyx_level_2.png"
+        }
+      },
+      {
+        "user_id": 13,
+        "name": "Habibullah Bahar",
+        "last_active": "25 mins ago",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "badge": {
+          "name": "Bronze III",
+          "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/silver_level_3.png"
+        }
+      },
+      {
+        "user_id": 14,
+        "name": "Khandoker Kafi Anan",
+        "last_active": "24 mins ago",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "badge": {
+          "name": "Bronze III",
+          "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/onyx_level_2.png"
+        }
+      }
+    ]
+  }
+}

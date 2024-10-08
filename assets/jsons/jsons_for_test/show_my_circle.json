@@ -1,0 +1,49 @@
+{
+  "data": {
+    "created_by_user": [
+      {
+        "id": 1,
+        "circle_name": "General",
+        "total_members": 12
+      },
+      {
+        "id": 27,
+        "circle_name": "Family",
+        "total_members": 16
+      },
+      {
+        "id": 31,
+        "circle_name": "Friends",
+        "total_members": 12
+      },
+      {
+        "id": 77,
+        "circle_name": "Office",
+        "total_members": 23
+      },
+      {
+        "id": 121,
+        "circle_name": "Boards",
+        "total_members": 4
+      }
+    ],
+    "created_by_others": [
+      {
+        "id": 19,
+        "circle_name": "Friends",
+        "creator_user_id": 4,
+        "creator_name": "Anan",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "total_members": 12
+      },
+      {
+        "id": 23,
+        "circle_name": "Developers Club",
+        "creator_user_id": 7,
+        "creator_name": "Bahar",
+        "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+        "total_members": 129
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data":{
+    "app_users": {
+      "current_cash": 200.00,
+      "current_credit": 300.00
+    },
+    "banner_images": [
+      "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/carousel_1.png",
+      "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/carousel_1.png"
+    ],
+    "categories":[
+      {
+        "id": 1,
+        "name": "Cricket",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/cricket.png"
+      },
+      {
+        "id": 2,
+        "name": "Baseball",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/baseball.png" },
+      {
+        "id": 3,
+        "name": "Hockey",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/hockey.png"
+      },
+      {
+        "id": 4,
+        "name": "Rugby",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/rugby.png" },
+      {
+        "id": 5,
+        "name": "Tennis",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/tennis.png"
+      },
+      {
+        "id": 6,
+        "name": "Football",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/football.png" }
+    ],
+    "create_bet_with": [
+      {
+        "match_id": 12,
+        "category": {
+          "id": 2,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "remaining_time": "2d 3hrs",
+        "countdown_start": 0,
+        "countdown_seconds": 130,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "matched_amount_credit": 9821,
+        "matched_amount_cash": 1300,
+        "show_matched_amount_credit": 0,
+        "show_matched_amount_cash": 1
+      },
+      {
+        "match_id": 12,
+        "category": {
+          "id": 2,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "remaining_time": "2d 3hrs",
+        "countdown_start": 0,
+        "countdown_seconds": 130,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "matched_amount_credit": 9821,
+        "matched_amount_cash": 1300,
+        "show_matched_amount_credit": 0,
+        "show_matched_amount_cash": 1
+      },
+      {
+        "match_id": 12,
+        "category": {
+          "id": 2,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "remaining_time": "2d 3hrs",
+        "countdown_start": 0,
+        "countdown_seconds": 130,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "matched_amount_credit": 9821,
+        "matched_amount_cash": 1300,
+        "show_matched_amount_credit": 0,
+        "show_matched_amount_cash": 1
+      },
+      {
+        "match_id": 12,
+        "category": {
+          "id": 2,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "remaining_time": "2d 3hrs",
+        "countdown_start": 0,
+        "countdown_seconds": 130,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "matched_amount_credit": 9821,
+        "matched_amount_cash": 1300,
+        "show_matched_amount_credit": 0,
+        "show_matched_amount_cash": 1
+      }
+
+    ],
+    "my_bets": [
+      {
+        "bet_id": 3213,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "category": {
+          "id": 1,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "currency_type": "cash",
+        "profit": 190.00,
+        "lose": 180.11,
+        "odd": 1.7,
+        "my_selected_team": {
+          "team_id": 7,
+          "name": "Australia",
+          "code": "AUS",
+          "icon": "https://circlebetau.com/assets/teams/aus_cricket_timestamp.png"
+        },
+        "visibility": "public",
+        "bet_room_id": "dsdadasdsadad23231241",
+        "bet_room_chat_id": "dsdadasdsadad23231241"
+      }
+    ],
+    "latest_bet_result": [
+      {
+        "bet_id": 44419,
+        "match_status": "WIN",
+        "currency_type": "credit",
+        "odd": 1.00,
+        "amount": 130.12,
+        "resolved_ago": "5min ago",
+        "bet_room_id": "2aae6c35c94fcfb415dbe95f408b9ce91ee846ed",
+        "teams": [
+          {
+            "team_id": 7,
+            "self": 1,
+            "name": "Bangladesh",
+            "code": "BD",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "self": 0,
+            "name": "Australia",
+            "code": "AUS",
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          }
+        ],
+        "visibility": "public",
+        "opponents": [
+          {
+            "id": 12,
+            "name": "Protik",
+            "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png"
+          }
+        ],
+        "bet_room_id": "dsdadasdsadad23231241",
+        "bet_room_chat_id": "dsdadasdsadad23231241"
+
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "page_availability": false,
+    "bet_list": [
+      {
+        "bet_id": 3213,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "self": 1,
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "self": 0,
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "category": {
+          "id": 1,
+          "name": "Cricket",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "opponents": [
+          {
+            "id": 120,
+            "name": "Protik",
+            "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png"
+          }
+        ],
+        "currency_type": "cash",
+        "my_profit": 130,
+        "my_lose": 1300,
+        "odd": 1,
+        "visibility": "public"
+      },
+      {
+        "bet_id": 3213,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "self": 1,
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "self": 0,
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "category": {
+          "id": 1,
+          "name": "Hockey",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "opponents": [
+          {
+            "id": 120,
+            "name": "Protik",
+            "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png"
+          }
+        ],
+        "currency_type": "cash",
+        "my_profit": 100,
+        "my_lose": 300,
+        "odd": 1.8,
+        "visibility": "public"
+      },
+      {
+        "bet_id": 3213,
+        "teams": [
+          {
+            "team_id": 7,
+            "name": "Bangladesh",
+            "code": "BD",
+            "self": 0,
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/bd_flag.png"
+          },
+          {
+            "team_id": 9,
+            "name": "Australia",
+            "code": "AUS",
+            "self": 1,
+            "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/au_flag.png"
+          }
+        ],
+        "category": {
+          "id": 1,
+          "name": "Football",
+          "icon": "https://circlebetau.com/assets/categories/cricket_timestamp.png"
+        },
+        "opponents": [
+          {
+            "id": 120,
+            "name": "Protik",
+            "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png"
+          }
+        ],
+        "currency_type": "credit",
+        "my_profit": 430,
+        "my_lose": 4500,
+        "odd": 1,
+        "visibility": "public"
+      }
+    ]
+  }
+}

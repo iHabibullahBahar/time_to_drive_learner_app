@@ -1,0 +1,33 @@
+{
+  "data": {
+    "categories":[
+      {
+        "id": 1,
+        "name": "Cricket",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/cricket.png"
+      },
+      {
+        "id": 2,
+        "name": "Baseball",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/baseball.png" },
+      {
+        "id": 3,
+        "name": "Hockey",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/hockey.png"
+      },
+      {
+        "id": 4,
+        "name": "Rugby",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/rugby.png" },
+      {
+        "id": 5,
+        "name": "Tennis",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/tennis.png"
+      },
+      {
+        "id": 6,
+        "name": "Football",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/football.png" }
+    ]
+  }
+}

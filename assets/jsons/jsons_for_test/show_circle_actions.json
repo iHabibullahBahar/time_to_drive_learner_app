@@ -1,0 +1,11 @@
+{
+  "data": {
+    "action_data": {
+      "invite": true,
+      "rename": true,
+      "delete": true,
+      "can_remove_members": true,
+      "leave": false
+    }
+  }
+}

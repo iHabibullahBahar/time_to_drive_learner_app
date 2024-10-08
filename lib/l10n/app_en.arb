@@ -1,0 +1,124 @@
+{
+
+
+    "signUpScreenTexts": "Sign Up and sign in Screen Texts",
+    "signUpTitle": "Welcome",
+    "signUpDescription": "Hi there, It’s always great to see new faces. Let’s get started!",
+    "loginTitle": "Welcome Back",
+    "loginDescription": "Hi there, Welcome back. Let’s get you logged in.",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "password": "Password",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPassword": "Password must be at least 6 characters long",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don’t have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "agreementText": "I’ve read and agree with the terms of service & Privacy Policy.",
+
+    "forgotPasswordScreenTexts": "Forgot Password Screen Texts",
+    "forgotPasswordTitle": "Forgot Password",
+    "forgotPasswordDescription": "Enter your email address and we’ll send you a link to reset your password.",
+
+    "otpScreenTexts": "OTP Screen Texts",
+    "otpTitle": "OTP Verification",
+    "otpDescription": "Enter the 6-digit code sent to your email address.",
+    "didntReceiveOtp": "Didn’t receive the code?",
+    "dontHaveAccountOtp": "Don’t have an account?",
+
+
+    "createPostScreenTexts": "Create Post Screen Texts",
+    "createPost": "Create Post",
+    "createPostScreenTitle": "Create a post",
+
+
+    "postScreenTexts": "Post Screen Texts",
+    "postScreenTitle": "My posts",
+    "emptyPost": "You haven’t posted anything yet",
+    "post": "Post",
+    "posted": "Posted on",
+    "interested": "Interested",
+    "interestedDescription": "Waiting for shortlisted",
+    "shortlisted": "Shortlisted",
+    "shortlistedDescription": "Contact information shared",
+
+
+
+
+
+
+
+
+
+
+
+    "profileScreenTexts": "Profile Screen Texts",
+    "profile": "Profile",
+    "subscription": "Subscription",
+    "referralCode": "Your referral code: ",
+    "dietaryRequirements": "Dietary Requirements",
+    "mealStructure": "Meal Structure",
+    "setYourGoal": "Set Your Goal",
+    "setYourActivityLevel": "Activity Level",
+    "age": "Age",
+    "height": "Height",
+    "weight": "Weight",
+    "name": "Name",
+    "yourInformation": "Your Information",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "buttons": "Buttons",
+    "buttonSkip": "Skip",
+    "buttonStart": "Start",
+    "buttonLogin": "Login",
+    "buttonSignUp": "Sign Up",
+    "buttonCancel": "Cancel",
+    "buttonResetPassword": "Reset Password",
+    "buttonContinueWith": "Continue with",
+    "buttonOtpResend": "Resend OTP",
+    "buttonSubmit": "Submit",
+    "buttonPayNow": "Pay Now",
+    "buttonSwap": "Swap",
+    "buttonPick" : "Pick it",
+    "buttonAddToFav" : "Add this to my favourites",
+    "buttonRemoveFromFav" : "Remove this from my favourites",
+    "buttonSwapMeal": "Swap this meal",
+    "buttonLogout": "Log Out",
+    "buttonResetPassword": "Reset",
+    "buttonSwapThisMeal": "Swap this meal",
+    "buttonUpdate": "Update",
+
+
+
+    "buttonContinue": "Continue",
+    "buttonResend": "Resend",
+    "buttonNext": "Next",
+    "buttonDone": "Done",
+    "buttonRetype": "Retype",
+    "buttonConfirm": "Confirm",
+    "buttonSignIn": "Sign In",
+    "buttonAgree": "Agree",
+    "buttonSeeAll": "See All"
+}

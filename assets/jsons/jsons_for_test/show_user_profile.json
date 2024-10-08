@@ -1,0 +1,42 @@
+{
+  "data": {
+    "name": "Habibullah Bahar",
+    "user_id": 199333,
+    "image": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/image_for_circle_bet/assets/images/image_for_test/person.png",
+    "last_active": "6 months ago",
+    "total_bets": 150,
+    "overall_ranking": 15798,
+    "current_badge": {
+      "badge_id": 12,
+      "name": "Gold III",
+      "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/silver_level_3.png"
+    },
+    "timestamp": "2023-09-26T08:00:00Z",
+    "unlocked_awards": [
+      {
+        "award_id": 3,
+        "name": "5 in a row",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/five_in_a_row_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "Rising Award",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/rising_star_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "5 in a row",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/five_in_a_row_badge.png"
+      },
+      {
+        "award_id": 3,
+        "name": "Rising Award",
+        "description": "Win 5 bets in a row to get this award",
+        "icon": "https://raw.githubusercontent.com/iHabibullahBahar/dfCart/master/assets/images/image_for_test/rising_star_badge.png"
+      }
+    ]
+  }
+}
