@@ -102,6 +102,8 @@ class AuthController extends GetxController {
         await LocalStorageController.instance
             .setString(zAuthToken, decoded['data']['auth_token']);
         LocalStorageController.instance.setBool(zIsLoggedIn, true);
+        LocalStorageController.instance.setInt(zUserId, decoded['data']['uid']);
+        GlobalStorage.instance.userId = decoded['data']['uid'];
         GlobalStorage.instance.isLoggedIn = true;
         emailController.clear();
         passwordController.clear();

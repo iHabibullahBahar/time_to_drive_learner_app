@@ -33,6 +33,7 @@
     "createPostScreenTitle": "Create a post",
 
 
+
     "postScreenTexts": "Post Screen Texts",
     "postScreenTitle": "My posts",
     "emptyPost": "You haven’t posted anything yet",
@@ -42,6 +43,16 @@
     "interestedDescription": "Waiting for shortlisted",
     "shortlisted": "Shortlisted",
     "shortlistedDescription": "Contact information shared",
+
+    "postResponseScreenTexts": "Post Response Screen Texts",
+    "postResponseScreenTitle": "Responses",
+    "emptyResponse": "You haven’t received any responses yet",
+    "shortListInstructorTitle": "Shortlisted instructors",
+    "shortListInstructorDescription": "These instructors have been shortlisted by you. Finalize your decision by contacting them.",
+    "interestedInstructorTitle": "Interested instructors",
+    "interestedInstructorDescription": "These instructors have shown interest in your post. Shortlist them to contact them.",
+    "noReviewsTitle": "New to Time To Drive",
+
 
 
 

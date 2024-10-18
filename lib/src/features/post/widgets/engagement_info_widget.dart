@@ -46,12 +46,17 @@ class EngagementInfoWidget extends StatelessWidget {
               ),
             ),
             Gap(8),
-            Text(
-              description,
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                color: zBlackColor,
-                fontSize: 12,
+            Container(
+              width: Get.width / 2 - 2 * Dimensions.zDefaultPadding - 20,
+              child: Text(
+                description,
+                textAlign: TextAlign.center,
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+                style: TextStyle(
+                  color: zBlackColor,
+                  fontSize: 12,
+                ),
               ),
             ),
           ],

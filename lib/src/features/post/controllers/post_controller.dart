@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ttd_learner/src/common/services/custom_snackbar_service.dart';
+import 'package:ttd_learner/src/features/post/models/post_details_model.dart';
 import 'package:ttd_learner/src/features/post/models/post_model.dart';
 import 'package:ttd_learner/src/features/post/models/post_settings_model.dart';
 import 'package:ttd_learner/src/helper/api_services.dart';
@@ -29,6 +30,7 @@ class PostController extends GetxController {
     fetchCreatePostOptions();
   }
 
+  ///Post Fetching Functionality
   RxBool isPostFetching = false.obs;
   PostModel postModel = PostModel();
 
@@ -56,6 +58,7 @@ class PostController extends GetxController {
     }
   }
 
+  ///Create Post Options Functionality
   RxBool isCreatePostOptionFetching = false.obs;
   PostSettingsModel postSettingsModel = PostSettingsModel();
   fetchCreatePostOptions() async {
@@ -79,6 +82,7 @@ class PostController extends GetxController {
     }
   }
 
+  ///Post Code Validation Functionality
   RxBool isPostCodeValidating = false.obs;
   Future<bool> isPostCodeValid(String postalCode) async {
     try {
@@ -104,14 +108,19 @@ class PostController extends GetxController {
     return false;
   }
 
-  // availability:["Monday","Friday","Saturday","Sunday"]
-  // title:Test Title from app api 3
-  // description:
-  // driving_experience:intermediate
-  // hourly_budget_range:24-30
-  // area:Westminster
-  // postcode:SW1W 0NY
-
+  ///Create Post Functionality
+  int currentIndex = 0;
+  double spaceBetweenInput = 30;
+  String selectedTitle = '';
+  String description = '';
+  String selectedBudget = '';
+  String selectedExperience = '';
+  String selectedPostalCode = '';
+  String selectedArea = '';
+  List<String> selectedAvailableDays = [];
+  TextEditingController customTitleController = TextEditingController();
+  TextEditingController descriptionController = TextEditingController();
+  TextEditingController postalCodeController = TextEditingController();
   RxBool isPostCreating = false.obs;
   Future<bool> createPost() async {
     selectedTitle =
@@ -150,18 +159,6 @@ class PostController extends GetxController {
     return false;
   }
 
-  int currentIndex = 0;
-  double spaceBetweenInput = 30;
-  String selectedTitle = '';
-  String description = '';
-  String selectedBudget = '';
-  String selectedExperience = '';
-  String selectedPostalCode = '';
-  String selectedArea = '';
-  List<String> selectedAvailableDays = [];
-  TextEditingController customTitleController = TextEditingController();
-  TextEditingController descriptionController = TextEditingController();
-  TextEditingController postalCodeController = TextEditingController();
   clearCreatePostData() {
     selectedTitle = '';
     description = '';
@@ -177,15 +174,6 @@ class PostController extends GetxController {
     selectedAvailableDays = List.from(allDays);
     update();
     print(selectedAvailableDays);
-  }
-
-  bool validatePostcode() {
-    if (selectedPostalCode.isEmpty || selectedArea.isEmpty) {
-      CustomSnackBarService()
-          .showWarningSnackBar(message: "Please enter a valid postcode");
-      return false;
-    }
-    return true;
   }
 
   bool validateCurrentStep() {
@@ -219,8 +207,38 @@ class PostController extends GetxController {
         }
         break;
       case 5:
-        return validatePostcode();
+        if (selectedPostalCode.isEmpty || selectedArea.isEmpty) {
+          CustomSnackBarService()
+              .showWarningSnackBar(message: "Please enter a valid postcode");
+          return false;
+        }
     }
     return true;
+  }
+
+  ///Post Response Functionality
+  RxBool isPostDetailsFetching = false.obs;
+  PostDetailsModel postDetailsModel = PostDetailsModel();
+  fetchPostDetails(int postId) async {
+    try {
+      isPostDetailsFetching.value = true;
+      var response = await ApiServices.instance.getResponse(
+        requestBody: {
+          "post_id": postId,
+        },
+        endpoint: zShowPostDetailsEndpoint,
+        isAuthToken: true,
+      );
+      var decoded = jsonDecode(response.body);
+      if (response.statusCode >= 200 && response.statusCode < 300) {
+        postDetailsModel = PostDetailsModel.fromJson(decoded);
+        isPostDetailsFetching.value = false;
+      } else {
+        print("Error in fetching post data");
+      }
+    } catch (e) {
+      print(
+          "Error in fetching post details: $e ------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>");
+    }
   }
 }

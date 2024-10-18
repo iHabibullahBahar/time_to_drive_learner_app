@@ -11,7 +11,7 @@ import 'package:ttd_learner/src/utils/app_constants.dart';
 //import 'package:onesignal_flutter/onesignal_flutter.dart';
 
 void main() async {
-  //WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized();
   //Firebase.initializeApp();
   // try {
   //   if (!kIsWeb) {

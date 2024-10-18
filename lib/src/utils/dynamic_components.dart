@@ -20,7 +20,7 @@ class DynamicComponents {
 }
 
 AppBar zDefaultAppBar({
-  required String title,
+  String title = "",
   VoidCallback? onTapLeading,
   bool isShowLeading = true,
   Color backgroundColor = zBackgroundColor,

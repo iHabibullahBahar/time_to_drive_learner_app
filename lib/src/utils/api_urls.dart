@@ -14,6 +14,13 @@ const zShowPostsEndpoint = 'show_posts';
 const zCreatePostEndpoint = 'create_post';
 const zShowCreatePostOperationEndpoint = 'show_create_post_options';
 const zValidatePostCodeEndpoint = 'validate_postal_code';
+const zShowPostDetailsEndpoint = 'show_post_details';
+
+const zShowMessagesEndpoint = 'show_messages';
+const zSendMessageEndpoint = 'send_message';
+
+const zShowReviewsEndpoint = 'show_reviews';
+const zCreateReviewEndpoint = 'create_review';
 
 const zUserInfoEndpoint = 'show_user';
 const zShowPaymentPackageEndpoint = 'payment/package';
